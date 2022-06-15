@@ -55,3 +55,5 @@ CL_Console.Log(String.Format("Player Position: (%d;%d)", player.x, player.y));
 ```
 
 
+## Included Game
+In src.zip there is a game with the script and GUI created and working
